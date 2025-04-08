@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "/home/lerosier/Code/python/Raspberry-ping/venv/bin/python",
+  "python.experiments.enabled": false,
+  "python.analysis.autoSearchPaths": false,
+  "python.analysis.useLibraryCodeForTypes": false
+}
